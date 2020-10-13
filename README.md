@@ -1,2 +1,2 @@
-# appeperia
-Projeto para a companhar o curso da Alura - Layouts Responsivos. 
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
